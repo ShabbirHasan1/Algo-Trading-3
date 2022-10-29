@@ -1,5 +1,0 @@
-access_token
-request_token
-user_name
-password
-pin
